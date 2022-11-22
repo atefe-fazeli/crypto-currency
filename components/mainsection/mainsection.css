@@ -1,0 +1,9 @@
+.container ul{
+    display: flex;
+    flex-direction: row;
+    border: 1px solid;
+    list-style-type: none;
+}
+.container ul>*{
+   margin: 1em;
+}
